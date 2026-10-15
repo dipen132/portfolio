@@ -19,7 +19,7 @@ A responsive developer portfolio built with PHP, MySQL, HTML5, Vanilla CSS and J
 - **Email**: modidipen3@gmail.com
 - **Phone / WhatsApp**: +91 82002 17135 ([Direct WhatsApp Link](https://wa.me/918200217135))
 - **LinkedIn**: [linkedin.com/in/dipen-modi-90062925b](https://www.linkedin.com/in/dipen-modi-90062925b/)
-- **GitHub**: [github.com/Dipen1602](https://github.com/Dipen1602)
+- **GitHub**: [github.com/dipen132](https://github.com/dipen132)
 
 ## 4. Key Projects Featured
 1. **KankuDiamond**: WooCommerce & Supplier REST API integration (sync of 700–800 products daily, custom diamond specs, 360° previews).
